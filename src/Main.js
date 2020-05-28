@@ -4,25 +4,31 @@ import {
   NavLink,
   HashRouter
 } from "react-router-dom"
-import Home from "./Home"
-import Stuff from "./Stuff"
-import Contact from "./Contact"
+import Home from "./home/Home"
+import Cookbook from "./cookbook/Cookbook"
+import Map from "./map/Map"
+import Phonebook from "./phonebook/Phonebook"
+import Countries from "./countries/Countries"
 
 class Main extends Component {
   render() {
     return (
       <HashRouter>
         <div>
-          <h1>Simple SPA</h1>
+          <h1>allanwilson.net</h1>
           <ul className="header">
-            <li><NavLink to="/">Home</NavLink></li>
-            <li><NavLink to="/stuff">Stuff</NavLink></li>
-            <li><NavLink to="/contact">Contact</NavLink></li>
+            <li><NavLink exact to="/">Home</NavLink></li>
+            <li><NavLink to="/Cookbook">Cookbook</NavLink></li>
+            <li><NavLink to="/Map">Map</NavLink></li>
+            <li><NavLink to="/Phonebook">Phonebook</NavLink></li>
+            <li><NavLink to="/Countries">Countries</NavLink></li>
           </ul>
           <div className="content">
-            <Route path="/" component={Home}/>
-            <Route path="/stuff" component={Stuff}/>
-            <Route path="/contact" component={Contact}/>
+            <Route exact path="/" component={Home}/>
+            <Route path="/Cookbook" component={Cookbook}/>
+            <Route path="/Map" component={Map}/>
+            <Route path="/Phonebook" component={Phonebook}/>
+            <Route path="/Countries" component={Countries}/>
           </div>
         </div>
       </HashRouter>

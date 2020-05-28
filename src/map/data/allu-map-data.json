@@ -1,0 +1,148 @@
+{
+  "walkingRoutes": [
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 1,
+        "NAME": "Kaitalahden lintutorni, Hanikka",
+        "DESCRIPTION": "Beach, cycle path, loooong board walk, birdtower",
+        "URL": "https://www.strava.com/activities/3293826692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.138041, 24.691416]
+      }
+    },
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 2,
+        "NAME": "Liessaari, Lohja",
+        "DESCRIPTION": "Well marked trail. Beautiful views. Swimming beach",
+        "URL": "https://www.strava.com/activities/3320877606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.243579, 24.026089]
+      }
+    },
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 3,
+        "NAME": "Sorlampi, Nuuksio",
+        "DESCRIPTION": "5km luontopolku. Cave. Hiidenkirnut",
+        "URL": "https://www.strava.com/activities/3350895787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.258494, 24.603675]
+      }
+    },
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 3,
+        "NAME": "Sorlampi, Nuuksio",
+        "DESCRIPTION": "5km luontopolku. Cave. Hiidenkirnut",
+        "URL": "https://www.strava.com/activities/3350895787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.258494, 24.603675]
+      }
+    },
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 4,
+        "NAME": "Iso Holma, Nuuksio",
+        "DESCRIPTION": "3.5km walk to idylic campsite. Firewood and toilet there",
+        "URL": "https://www.strava.com/activities/3386829163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.311786,
+          24.487986
+        ]
+      }
+    },
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 5,
+        "NAME": "Viikki Birdtowers",
+        "DESCRIPTION": "Nice. well used walk. Wide open and popular birdwatching area",
+        "URL": "https://www.strava.com/activities/3391308145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.218918,
+          25.004387
+        ]
+      }
+    },
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 6,
+        "NAME": "Kallahti",
+        "DESCRIPTION": "Forest peninsula. Lovely bays on each side and kitesurfing beach at the end",
+        "URL": "https://www.strava.com/activities/3466782691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.200061, 25.132105
+        ]
+      }
+    },
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 7,
+        "NAME": "Piilolammi",
+        "DESCRIPTION": "Nice cycle from Hyvinkää. Lovely grillipäikkä by a small lake",
+        "URL": "https://www.strava.com/activities/3227215086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.637042, 24.740293
+        ]
+      }
+    },
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 8,
+        "NAME": "Lasilaakso",
+        "DESCRIPTION": "Hollow tree, bird tower and lovely river bank",
+        "URL": "https://www.strava.com/activities/3487956334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.180740, 24.574191
+        ]
+      }
+    },
+    {
+      "type": "walkingRoute",
+      "properties": {
+        "ROUTE_ID": 9,
+        "NAME": "Kasavuori Scenic Cliffs",
+        "DESCRIPTION": "Beautiful scenic view over the sea, islands and Soukka. Really nice picnic spot",
+        "URL": "https://www.strava.com/activities/3497862892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.131120, 24.664719
+        ]
+      }
+    }
+  ]
+}
