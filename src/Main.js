@@ -1,10 +1,9 @@
-import React, { Component , useState } from "react"
+import React, { Component } from "react"
 import {
   Route,
   NavLink,
   HashRouter
 } from "react-router-dom"
-import ReactDOM from "react-dom";
 import Home from "./home/Home"
 import Cookbook from "./cookbook/Cookbook"
 import Map from "./map/Map"

@@ -1,5 +1,4 @@
-import React, { Component, useState } from "react"
-import ReactDOM from 'react-dom'
+import React, { Component } from "react"
 
 class Cookbook extends Component {
   
